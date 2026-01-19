@@ -11,6 +11,5 @@ public class TipeDataChar {
         System.out.print(l);
         System.out.print(a);
         System.out.print(n);
-
     }
 }
