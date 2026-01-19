@@ -19,6 +19,6 @@ public class Variable {
         var middleName = "Sirajul";
         var lastName = "Umam";
 
-        final String application = "Belaar Java Dasar";
+        final String application = "Belajar Java Dasar";
     }
 }
